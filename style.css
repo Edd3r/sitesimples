@@ -121,10 +121,6 @@ nav li a:hover{
     text-decoration: none;
 }
 
-.n-overlay a{
-    background-color: black;
-    color: white;
-}
 footer {
 	background-color: #000000;
 	color: #fff;
